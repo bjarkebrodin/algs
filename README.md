@@ -1,1 +1,1 @@
-# algs
+# Bunch of algorithms
